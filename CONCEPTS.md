@@ -5,8 +5,8 @@ Stuck on a concept? The matching chapter of [100 Exercises To Learn Rust](https:
 
 ## Project 1 — minigrep (this repo)
 - [ ] Cargo, crates, `main.rs` vs `lib.rs`, modules
-- [ ] Ownership & moves
-- [ ] Borrowing: `&T` vs `&mut T`
+- [x] Ownership & moves — step 1
+- [x] Borrowing: `&T` vs `&mut T` — step 1 (`&T` only so far)
 - [ ] `String` vs `&str`, slices
 - [ ] Structs & `impl` blocks
 - [ ] Enums, `Option`, `Result`
