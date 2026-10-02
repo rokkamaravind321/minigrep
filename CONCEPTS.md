@@ -7,7 +7,7 @@ Stuck on a concept? The matching chapter of [100 Exercises To Learn Rust](https:
 - [ ] Cargo, crates, `main.rs` vs `lib.rs`, modules
 - [x] Ownership & moves — step 1
 - [x] Borrowing: `&T` vs `&mut T` — step 1 (`&T` only so far)
-- [ ] `String` vs `&str`, slices
+- [x] `String` vs `&str`, slices — step 2 (concept; used for real in step 4)
 - [ ] Structs & `impl` blocks
 - [ ] Enums, `Option`, `Result`
 - [ ] Pattern matching (`match`, `if let`)
