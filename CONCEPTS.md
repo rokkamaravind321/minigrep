@@ -8,8 +8,8 @@ Stuck on a concept? The matching chapter of [100 Exercises To Learn Rust](https:
 - [x] Ownership & moves — step 1
 - [x] Borrowing: `&T` vs `&mut T` — step 1 (`&T` only so far)
 - [x] `String` vs `&str`, slices — step 2 (concept; used for real in step 4)
-- [ ] Structs & `impl` blocks
-- [ ] Enums, `Option`, `Result`
+- [x] Structs & `impl` blocks — step 3
+- [x] Enums, `Option`, `Result` — step 3 (`Result`; `Option` seen via `.get()`)
 - [ ] Pattern matching (`match`, `if let`)
 - [ ] Error handling: `?`, `Box<dyn Error>`
 - [ ] Lifetimes (basic, in function signatures)
